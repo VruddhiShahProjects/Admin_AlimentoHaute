@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395556343859",
+    "project_id": "alimentohaute",
+    "storage_bucket": "alimentohaute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395556343859:android:fe7d36cef440526d289346",
+        "android_client_info": {
+          "package_name": "com.example.admin_alimentohaute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_spbM2zsCHVl_TzZJWdE3rLYuI5UrO9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
